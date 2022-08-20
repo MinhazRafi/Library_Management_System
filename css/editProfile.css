@@ -1,0 +1,47 @@
+body{
+       background: url("../asset/df.jpg");
+ background-repeat: no-repeat;
+ background-size:100%
+    }
+    .edit{
+   padding: 30px;
+      margin-top: 20px;
+   padding-bottom: 10px;
+   margin-left: 500px;
+   margin-right: 450px;
+   align-content: center;
+      width: 450px;
+    
+      background-color: black;
+      opacity: .9;
+      color: #fff;
+      height: 650px;
+     
+}
+
+h2{
+   text-align: center;
+   color: #fff;
+}
+span{
+   color: #fff;
+  
+}
+
+.forms{
+   width: 350px;
+   height: 30px;
+  
+}
+
+h4{
+    color: violet;
+}
+.btn{
+   text-align: center;
+   width: 100px;
+   height: 30px;
+   background-color: green;
+   margin-left: 200px;
+
+}

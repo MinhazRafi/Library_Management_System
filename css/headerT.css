@@ -1,0 +1,56 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: gray;
+}
+header{
+	width: 100%;
+	overflow: auto;
+	background: black;
+}
+nav{
+	float: left;
+}
+.ul ul{
+	padding: 0px;
+	margin:0 0 0 250px ;
+	list-style: none;
+}
+
+li{
+	float: left;
+}
+li a{
+	width: 70px;
+	display: block;
+	padding: 20px 10px;
+	text-decoration: none;
+	font-family: arial;
+	color: #fff;
+	text-align: rigth;
+	margin-left: 160px;
+	margin-right: 0px;
+}
+li a:hover{
+	background: gray;
+	text-transform: uppercase;
+
+}
+
+
+.logo img{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 10px;
+	height: 55px;
+	width: 100px;
+}
+.head h1{
+	position: absolute;
+	margin-top:5px;
+	margin-left: 110px;
+	color:Tomato;
+	font-family:Blackadder ITC;
+	
+}
